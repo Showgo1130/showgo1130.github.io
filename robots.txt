@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://showgo1130.github.io/homepage/sitemap.xml
